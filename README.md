@@ -1,5 +1,7 @@
 # Amazon_Android-Development_CA1
 
+Kotlin Code for amazon login page
+
 package com.example.amazonloginpage
 
 import android.os.Bundle
@@ -80,7 +82,7 @@ fun AmazonLoginScreen() {
                 .padding(bottom = 20.dp)
         )
 
-        // ⭐ ONLY CHANGE DONE HERE → Amazon yellow sign-in button
+        
         Button(
             onClick = {},
             modifier = Modifier
@@ -119,3 +121,6 @@ fun AmazonLoginScreen() {
         )
     }
 }
+
+<img width="428" height="855" alt="{009FC32D-1AEF-4CAD-BBC8-649097FFEF14}" src="https://github.com/user-attachments/assets/a85a8c3c-cb12-4817-85ac-95c5a3db14f5" />
+
